@@ -5,7 +5,7 @@
 Bu proje, Sentiment140 veri setini kullanarak duygu analizi gerçekleştirmeyi amaçlamaktadır. Veri seti, 1.6 milyon tweet içerir ve bu tweetler, iki duygu kategorisine (pozitif ve negatif) ayrılmıştır. Proje, metin işleme teknikleri ve LSTM (Uzun Kısa Süreli Bellek) modelini kullanarak bu tweetlerin duygu durumlarını sınıflandırmayı hedeflemektedir.
 
 ## 🔗 Veri Kümesi
-Veri kümesi, [Sentiment140 dataset with 1.6 million tweets] adresinden alınmıştır. Bu veri seti, duygu analizi için yaygın olarak kullanılan önemli bir kaynaktır.
+Veri kümesi, [Sentiment140 dataset with 1.6 million tweets](https://www.kaggle.com/datasets/kazanova/sentiment140) adresinden alınmıştır. Bu veri seti, duygu analizi için yaygın olarak kullanılan önemli bir kaynaktır.
 
 ## 🛠️ Kullanılan Kütüphaneler
 - `pandas`: Veri analizi ve manipülasyonu için.
